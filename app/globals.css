@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 } */
+
+body {
+  padding: 0 1.5rem;
+  box-sizing: border-box;
+}
